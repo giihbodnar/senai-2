@@ -1,0 +1,14 @@
+# Maven build artifacts
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
